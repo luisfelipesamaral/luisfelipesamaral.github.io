@@ -10,8 +10,10 @@ Este site reúne algumas das minhas notas de estudo, textos expositivos, materia
 
 Tenho especial apreço pela literatura matemática clássica e pela tradição de textos que combinam rigor e boa escrita. Por esse motivo, este espaço também funciona como um caderno permanente de leitura e estudo, onde compartilho observações, referências bibliográficas e anotações sobre diferentes temas da Matemática.
 
-Se desejar entrar em contato, fique à vontade para escrever para **[lfamaral.math@gmail.com](mailto:lfamaral.math@gmail.com)**.
+## Contato
 
-[📄 Baixar *Currículo Vitae*](pdf/Curriculo_Vitae.pdf){.btn .btn-primary}
+Se desejar entrar em contato, fique à vontade para me enviar um <a href="mailto:lfamaral.math@gmail.com">e-mail</a> <i class="bi bi-envelope-fill"></i>.
 
-Acesse meu [Currículo Lattes](https://lattes.cnpq.br/4189209631711321){target="_blank" rel="noopener noreferrer"}
+[📄 Baixar *Currículo Vitae*.](pdf/Curriculo_Vitae.pdf){.btn .btn-primary}
+
+Acesse meu [Currículo Lattes](https://lattes.cnpq.br/4189209631711321){target="_blank" rel="noopener noreferrer"}.
