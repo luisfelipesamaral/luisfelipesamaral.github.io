@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Prof. Luís Felipe Amaral"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Início
+
+      - href: about.qmd
+        text: Sobre
+
+      - href: notes.qmd
+        text: Textos matemáticos
+
+      - href: books.qmd
+        text: Livros
+
+      - href: latex.qmd
+        text: Arquivos LaTeX
+
+      - href: contact.qmd
+        text: Contato
+
+  page-footer:
+    left: "© 2026, Luís Felipe Amaral"
+    right: "Desenvolvido com [Quarto®](https://quarto.org)"
+
+  back-to-top-navigation: true
+  reader-mode: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

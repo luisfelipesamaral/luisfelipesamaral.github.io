@@ -1,0 +1,19 @@
+---
+title: "Prof. Luís Felipe Amaral"
+---
+![](images/profile.jpeg){fig-align="right" width=180px}
+
+Doutor em Matemática.
+
+**Bem-vindo ao meu site!**
+
+Aqui compartilho textos matemáticos, materiais de ensino e tutoriais de LaTeX. Para saber mais, acesse a aba "Sobre".
+
+## Áreas de interesse
+
+- Sistemas Dinâmicos e Teoria Ergódica
+- Análise
+- Geometria Diferencial
+- História da Matemática
+- Ensino de Matemática
+- LaTeX e tipografia matemática

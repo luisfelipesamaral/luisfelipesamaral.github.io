@@ -1,0 +1,17 @@
+---
+title: "Sobre"
+---
+
+Sou doutor em Matemática pela Universidade Federal de Minas Gerais (UFMG), onde também obtive os graus de bacharel, licenciado e mestre em Matemática. Minha pesquisa concentra-se na área de Sistemas Dinâmicos, com interesse particular nos expoentes de Lyapunov.
+
+Além da pesquisa, tenho grande interesse pela comunicação da Matemática. Ao longo dos últimos anos, atuei como monitor e professor em disciplinas de Cálculo, participei da elaboração de materiais didáticos e colaborei na produção do livro *Lições de Cálculo*. Acredito que a clareza na exposição de ideias é parte essencial da própria atividade matemática.
+
+Este site reúne algumas das minhas notas de estudo, textos expositivos, materiais de ensino e recursos desenvolvidos em LaTeX. A proposta é disponibilizar conteúdo escrito com cuidado, privilegiando demonstrações completas, organização e elegância tipográfica.
+
+Tenho especial apreço pela literatura matemática clássica e pela tradição de textos que combinam rigor e boa escrita. Por esse motivo, este espaço também funciona como um caderno permanente de leitura e estudo, onde compartilho observações, referências bibliográficas e anotações sobre diferentes temas da Matemática.
+
+Se desejar entrar em contato, fique à vontade para escrever para **[lfamaral.math@gmail.com](mailto:lfamaral.math@gmail.com)**.
+
+[📄 Baixar *Currículo Vitae*](pdf/Curriculo_Vitae.pdf){.btn .btn-primary}
+
+Acesse meu [Currículo Lattes](https://lattes.cnpq.br/4189209631711321){target="_blank" rel="noopener noreferrer"}
