@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Prof. Luís Felipe Amaral",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre",
+    "section": "",
+    "text": "Sou doutor em Matemática pela Universidade Federal de Minas Gerais (UFMG), onde também obtive os graus de bacharel, licenciado e mestre em Matemática. Minha pesquisa concentra-se na área de Sistemas Dinâmicos, com interesse particular nos expoentes de Lyapunov.\nAlém da pesquisa, tenho grande interesse pela comunicação da Matemática. Ao longo dos últimos anos, atuei como monitor e professor em disciplinas de Cálculo, participei da elaboração de materiais didáticos e colaborei na produção do livro Lições de Cálculo. Acredito que a clareza na exposição de ideias é parte essencial da própria atividade matemática.\nEste site reúne algumas das minhas notas de estudo, textos expositivos, materiais de ensino e recursos desenvolvidos em LaTeX. A proposta é disponibilizar conteúdo escrito com cuidado, privilegiando demonstrações completas, organização e elegância tipográfica.\nTenho especial apreço pela literatura matemática clássica e pela tradição de textos que combinam rigor e boa escrita. Por esse motivo, este espaço também funciona como um caderno permanente de leitura e estudo, onde compartilho observações, referências bibliográficas e anotações sobre diferentes temas da Matemática.\nSe desejar entrar em contato, fique à vontade para escrever para lfamaral.math@gmail.com.\n📄 Baixar Currículo Vitae\nAcesse meu Currículo Lattes\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Prof. Luís Felipe Amaral",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Livros",
+    "section": "",
+    "text": "Em breve\nSite ainda em construção\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Prof. Luís Felipe Amaral",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Textos Matemáticos",
+    "section": "",
+    "text": "Dissertação de Mestrado\nTítulo: “Estudo da dinâmica local das aplicações de Hénon cúbicas conservativas”\nResumo: O objetivo do presente trabalho é apresentar um estudo dos aspectos locais da dinâmica da família de aplicações de Hénon cúbicas conservativas em torno dos seus pontos fixos, que podem ser hiperbólicos, hiperbólicos reversos, elípticos ou parabólicos. Serão utilizadas as definições de estabilidade e instabilidade segundo J. K. Moser. Nos casos hiperbólico e hiperbólico reverso, provaremos que todo difeomorfismo é instável em seu ponto fixo, usando o Teorema de Hartman–Grobman. Mostraremos, no primeiro caso, a existência de pontos homoclínicos topologicamente transversos para uma grande parcela da família em questão. Por conseguinte, as aplicações que satisfazem esta condição são caóticas perto do ponto fixo. Já no caso elíptico, provaremos que as aplicações são estáveis em todos os pontos fixos não-ressonantes até a sexta ordem, onde utilizaremos os Teoremas da Forma Normal de Birkhoff e do Twist de Moser. Para o caso parabólico, demonstraremos que as aplicações da família referida são instáveis no ponto fixo, de acordo com um critério estabelecido por T. Levi-Civita, com exceção de duas, que não se pode afirmar quanto à estabilidade delas.\n📄 Baixar PDF\n\n\nTese de doutorado\nTítulo: “Contributions to the continuity problem of Lyapunov exponents for linear cocycles over hyperbolic base maps”\nResumo: Vamos fixar um sistema dinâmico composto por um homeomorfismo hiperbólico \\(f\\colon M\\to M\\) definido em um espaço métrico compacto munido de uma probabilidade \\(\\mu\\) que seja \\(f\\)-ergódica e que possua estrutura de produto local e suporte total. Dada uma aplicação contínua \\(B\\colon M\\to\\mathrm{GL}(2,\\mathbb{R})\\) (isto é, cada elemento da imagem é uma transformação linear \\(\\mathbb{R}^2\\to\\mathbb{R}^2\\) invertível), podemos construir seu cociclo linear \\(F_B\\colon M\\times\\mathbb{R}^2\\to M\\times\\mathbb{R}^2\\) como sendo \\(F_B(x, v)=(f(x), B(x)\\cdot v)\\). Uma ferramenta muito útil para caracterizar o sistema dinâmico gerado pelo cociclo linear sobre o fibrado \\(M\\times\\mathbb{R}^2\\) são os chamados : \\(\\lambda_+(B)\\) e \\(\\lambda_-(B)\\), constantes em \\(\\mu\\)-quase todo ponto (e, portanto, dependendo apenas da aplicação \\(B\\) que gera o cociclo linear). Ainda não sabemos responder qual o maior conjunto possível de aplicações contínuas \\(M\\to\\mathrm{GL}(2,\\mathbb{R})\\) no qual os expoentes de Lyapunov variam continuamente. Para este fim, verifica-se que é suficiente considerar aplicações \\(M\\to\\mathrm{SL}(2,\\mathbb{R})\\) (ou seja, cujos elementos da imagem sejam transformações lineares \\(\\mathbb{R}^2\\to\\mathbb{R}^2\\) que preservam áreas). Essas aplicações são importantes devido ao fato de que seus expoentes de Lyapunov são números opostos. O pesquisador Marcelo Viana afirma, em uma de suas conjecturas, que os expoentes de Lyapunov serão contínuos no espaço das aplicações contínuas \\(B\\colon M\\to\\mathrm{SL}(2,\\mathbb{R})\\) que admitem ao menos uma holonomia uniforme (coleção de isomorfismos lineares entre fibras de um mesmo conjunto estável/instável local, que são conjugados à aplicação \\(B\\) nestes conjuntos e que variam continuamente com as fibras). Apesar de já termos alguns resultados parciais com relação a esta conjectura, ela ainda se encontra em aberto. Nosso objetivo no presente trabalho é dar algumas contribuições ao problema da continuidade, com vistas a uma solução definitiva.\nPara os resultados aqui apresentados, nós precisaremos de dois conceitos importantes. O primeiro deles é a condição de \\(2\\)-invariância de um cociclo linear munido de uma holonomia estável uniforme: de forma sucinta, esse cociclo admite duas secções \\(M\\to\\mathbb{PR}^2\\) contínuas, transversais e invariantes tanto pelo cociclo quanto pela holonomia (com suas versões projetivas). E o outro conceito é a condição de equiproximidade de uma sequência de holonomias instáveis: os isomorfismos lineares que compõem cada holonomia estão em uma vizinhança uniforme da identidade, desde que as fibras estejam suficientemente próximas. Essa condição é suficiente para concluirmos a existência de uma subsequência convergente dessas holonomias instáveis (uma versão do famoso Teorema de Arzelá–Ascoli para holonomias), o que nos permite abrir mão de que as holonomias precisam convergir para que o cociclo linear em questão seja um ponto de continuidade para os expoentes de Lyapunov. Dito isso, mostra-se neste trabalho que, dada uma sequência de cociclos lineares admitindo uma holonomia estável uniforme e uma holonomia instável (tanto uniforme quanto não-uniforme) de modo que os cociclos lineares convirjam (com holonomia estável) para um cociclo linear que satisfaz a condição de \\(2\\)-invariância, e a sequência formada pelas holonomias instáveis satisfazem a condição de equiproximidade, então há a convergência dos expoentes de Lyapunov. Prova-se ainda que, substituindo a hipótese da sequência de holonomias instáveis satisfazerem a condição de equiproximidade por uma convergência uniforme em um conjunto de medida positiva, podemos afirmar que, se os expoentes de Lyapunov do cociclo linear limite forem não-nulos, então todo expoente de Lyapunov da sequência passa a ser também não-nulo a partir de algum elemento. Esse é o passo inicial para se mostrar a continuidade.\n📄 Baixar PDF\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Luís Felipe Amaral",
+    "section": "",
+    "text": "Doutor em Matemática.\nBem-vindo ao meu site!\nAqui compartilho textos matemáticos, materiais de ensino e tutoriais de LaTeX. Para saber mais, acesse a aba “Sobre”."
+  },
+  {
+    "objectID": "index.html#áreas-de-interesse",
+    "href": "index.html#áreas-de-interesse",
+    "title": "Prof. Luís Felipe Amaral",
+    "section": "Áreas de interesse",
+    "text": "Áreas de interesse\n\nSistemas Dinâmicos e Teoria Ergódica\nAnálise\nGeometria Diferencial\nHistória da Matemática\nEnsino de Matemática\nLaTeX e tipografia matemática"
+  },
+  {
+    "objectID": "latex.html",
+    "href": "latex.html",
+    "title": "Arquivos LaTeX",
+    "section": "",
+    "text": "Em breve\nSite ainda em construção\n\n\n\n\n Back to top"
+  }
+]
